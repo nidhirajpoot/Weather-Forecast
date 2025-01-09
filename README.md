@@ -29,12 +29,16 @@ Implements event listeners and DOM manipulation for interactivity.
 # 🖥️ Project Structure:
 Weather-Forecast-App/
 ├── index.html          # Main HTML file for the app
+
 ├── css/
 │   └── style.css       # CSS file for styling the app
+
 ├── js/
 │   └── script.js       # JavaScript file for app functionality
+
 ├── assets/
 │   └── bg for wfffff.avif # Background image for the app
+
 └── README.md           # Project documentation
 
 # Screenshot
