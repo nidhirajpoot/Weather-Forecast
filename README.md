@@ -1,7 +1,7 @@
-🌦️ Weather Forecast Web Application:
+#🌦️ Weather Forecast Web Application:
 A Weather Forecast Web Application built using HTML, CSS, and JavaScript that fetches real-time weather data from the OpenWeatherMap API. This responsive and user-friendly application allows users to search for any city and view its current weather, temperature, and date.
 
-🚀 Features:
+#🚀 Features:
 🔹 Real-Time Weather Search:
 Users can enter a city name in the search box to fetch its current weather data.
 Displays location details including the city name and country.
@@ -14,7 +14,7 @@ The app displays the current date in a user-friendly format (e.g., Sunday 19 Mar
 Fully responsive layout that adapts seamlessly to different screen sizes (mobile, tablet, desktop).
 Background image enhances the visual experience of the app.
 
-🛠️ Technologies Used:
+#🛠️ Technologies Used:
 HTML: For structuring the web app.
 CSS: For styling and responsiveness.
 Flexbox for layout management.
@@ -23,7 +23,7 @@ JavaScript: For dynamic functionality and API integration.
 Fetches weather data using the OpenWeatherMap API.
 Implements event listeners and DOM manipulation for interactivity.
 
-🖥️ Project Structure:
+#🖥️ Project Structure:
 Weather-Forecast-App/
 ├── index.html          # Main HTML file for the app
 ├── css/
@@ -36,7 +36,7 @@ Weather-Forecast-App/
 
 ![image](https://github.com/user-attachments/assets/1b01c2ca-8501-4a1a-9b8e-8bfc10cd505d)
 
-🧩 How to Use:
+#🧩 How to Use:
 Clone this repository to your local machine:
 git clone https://github.com/yourusername/weather-forecast-app.git
 Open the project folder.
@@ -45,7 +45,7 @@ Open the index.html file in any modern web browser.
 
 Type the name of a city in the search bar and press "Enter" to fetch real-time weather data.
 
-🌟 Highlights:
+#🌟 Highlights:
 Dynamic Weather Data: The app dynamically fetches data from the OpenWeatherMap API for accurate results.
 Responsive Design: The app works seamlessly on different screen sizes.
 Real-Time Search: Provides instant weather updates for cities worldwide.
@@ -63,7 +63,7 @@ Dynamic Updates:
 
 The data is dynamically inserted into the DOM to update the city name, weather conditions, temperature, and date.
 
-📂 API Key Setup:
+#📂 API Key Setup:
 To use the OpenWeatherMap API:
 
 Sign up at OpenWeatherMap.
@@ -76,16 +76,16 @@ const api = {
     base: "https://api.openweathermap.org/data/2.5/"
 }
 
-🔧 Future Enhancements:
+#🔧 Future Enhancements:
 5-Day Forecast: Add functionality to display weather for the next 5 days.
 Geolocation Support: Use the browser's geolocation to fetch weather data for the user's current location.
 Unit Conversion: Provide an option to switch between Celsius and Fahrenheit.
 Error Handling: Display user-friendly error messages for invalid city names or network issues.
 
-👨‍💻 Author:
+#👨‍💻 Author:
 Name: NIDHI SINGH
 GitHub: https://github.com/nidhirajpoot
 LinkedIn: https://www.linkedin.com/in/nidhi-singh-rajpoot-ba4067237/
 
-📜 License:
+#📜 License:
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
