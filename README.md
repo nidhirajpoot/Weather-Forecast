@@ -88,7 +88,9 @@ Error Handling: Display user-friendly error messages for invalid city names or n
 
 # 👨‍💻 Author:
 Name: NIDHI SINGH
+
 GitHub: https://github.com/nidhirajpoot
+
 LinkedIn: https://www.linkedin.com/in/nidhi-singh-rajpoot-ba4067237/
 
 # 📜 License:
